@@ -265,3 +265,11 @@ fieldset {
     gap: 1rem;
     align-tracks: stretch;
 }
+
+.tags {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+    margin-right: 1rem;
+}
